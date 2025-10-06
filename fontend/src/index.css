@@ -1,0 +1,15 @@
+:root {
+  --primary: #121212; /* or your dark background */
+  --accent: #FFD700; /* gold */
+  --light: #eee;
+  --text-muted: #bbb;
+  --text-dark: #000;
+}
+
+body.light-mode {
+  --primary: #ffffff;
+  --accent: #B22222; /* crimson */
+  --light: #222;
+  --text-muted: #555;
+  --text-dark: #fff;
+}
